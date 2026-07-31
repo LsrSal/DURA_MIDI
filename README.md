@@ -1,4 +1,4 @@
 
 # DURA_MIDI
-Dead Unicorn Resurrection Adapter. Bring all those dead unicorns with 9-pin mini din connectors back to life! Hardware, class compliant multi-cable USB MIDI adapter for large family of old MOTU MIDI interfaces that become obsolete with elimination of serial mini din ports on old MACs. Maybe we can make Opcodes alive as well!
+Dead Unicorn Resurrection Adapter. Bring all those dead MOTUs with 9-pin mini din connectors back to life! Hardware, class compliant multi-cable USB MIDI adapter for large family of old MOTU MIDI interfaces that become obsolete with elimination of serial mini din ports on old MACs. Looks like Opcodes will come alive with MOTUs as well! (Because Opcodes have MOTU emulation.)
 <br><img width="400" alt="DURA MIDI" src="https://github.com/user-attachments/assets/67851090-fab5-4048-a1de-60eea7536f9c" />
