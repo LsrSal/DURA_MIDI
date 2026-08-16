@@ -22,7 +22,9 @@ Appeared to be fully functional. Some notes:<br>
 6. It will pass SysEx to each port as intended. I do not know if there is any practical limit to the length of SysEx. Most interfaces do choke at some point. Would be interesting to test and see. It may not have a limit at all as it handles MIDI as a stream. Presently I do not parse SysEx messages intended for the interface itself. It will be needed to implement ClockWork like functionality. Sometime in the future. <br>
 7. For highly technical crowd: It appeared that all interfaces I have to try are able to receive asynchronous communications. That 1MHz synchronous clock apparently for the Mac and not for the interfaces. So far I see no problem (no communication errors) running 100% asynchronous UART. Let's keep an eye on it.<br>
 
-<br><br><br>
+<br>
+The driver: It may prompt for MOTU driver. Please manually select generic "Composite Device".
+<br><br>
 Enjoy it and let me know how it works for you.
 
 
