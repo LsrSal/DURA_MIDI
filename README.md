@@ -1,6 +1,6 @@
 
 # DURA_MIDI
-## for MOTU classic Macintosh serial RS422 MIDI interfaces, to keep them going. 
+## for MOTU with classic Macintosh serial RS422 MIDI interfaces, to keep them going. 
 
 DURA - Dead Unicorn Resurrection Adapter. <br><br>
 Bring all those dead MOTUs with 9-pin mini din connectors back to life! All (most?) of those interfaces speaking the same MOTU serial MIDI dialect, even Opcodes.<br>
