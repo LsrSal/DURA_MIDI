@@ -3,7 +3,7 @@
 ## for MOTU with classic Macintosh serial RS422 MIDI interfaces, to keep them going. 
 
 DURA - Dead Unicorn Resurrection Adapter. <br><br>
-Bring all those dead MOTUs with 9-pin mini din connectors back to life! All (most?) of those interfaces speaking the same MOTU serial MIDI dialect, even Opcodes.<br>
+Bring all those dead MOTUs with 8-pin mini din connectors back to life! All (most?) of those interfaces speaking the same MOTU serial MIDI dialect, even Opcodes.<br>
 
 Hardware, class compliant multi-cable (x8) USB MIDI adapter for large family of old MOTU MIDI interfaces that become obsolete with elimination of serial mini-din ports on old MACs. Opcodes will come alive with MOTUs as well! (Because Opcodes have MOTU emulation.)
 <br><img width="400" alt="DURA MIDI" src="https://github.com/user-attachments/assets/67851090-fab5-4048-a1de-60eea7536f9c" />
